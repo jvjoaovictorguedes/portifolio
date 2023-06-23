@@ -118,9 +118,8 @@ body{
 
 @media (max-width: 800px) {
     .cabecalho {
-        padding: 10%;
-        margin: 5%;
-
+        padding: 15%;
+        margin: 5% 0% 0% 5%;
     }
 
     .cabecalho__menu {
@@ -141,7 +140,7 @@ body{
     }
 }
 
-@media (max-widht: 480px){
+@media (max-widht: 450px){
 
 .apresentacao {
     flex-direction: column-reverse;
